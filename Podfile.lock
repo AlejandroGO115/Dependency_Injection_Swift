@@ -1,0 +1,20 @@
+PODS:
+  - Alamofire (5.7.1)
+  - Resolver (1.5.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - Resolver
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Resolver
+
+SPEC CHECKSUMS:
+  Alamofire: 0123a34370cb170936ae79a8df46cc62b2edeb88
+  Resolver: 68984624572763018fd8ec7b8e3e8df0e3b6bba5
+
+PODFILE CHECKSUM: 635ffe738faf7b953eb44445abf2ac975e693efd
+
+COCOAPODS: 1.11.3

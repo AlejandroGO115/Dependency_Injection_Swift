@@ -1,0 +1,6 @@
+framework module Pods_DependencyInjectionTests {
+  umbrella header "Pods-DependencyInjectionTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
